@@ -1,0 +1,6 @@
+C:\Users\pca150\source\repos\TestCasesDemo\TestProject\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\pca150\source\repos\TestCasesDemo\TestProject\obj\Debug\net7.0\TestProject.csproj.AssemblyReference.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestProject\obj\Debug\net7.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca150\source\repos\TestCasesDemo\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestProject\obj\Debug\net7.0\TestProject.AssemblyInfo.cs
+C:\Users\pca150\source\repos\TestCasesDemo\TestProject\obj\Debug\net7.0\TestProject.csproj.CoreCompileInputs.cache

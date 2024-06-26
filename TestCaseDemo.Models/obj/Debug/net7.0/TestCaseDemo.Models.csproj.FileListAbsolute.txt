@@ -1,0 +1,14 @@
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\bin\Debug\net7.0\TestCaseDemo.Models.deps.json
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\bin\Debug\net7.0\TestCaseDemo.Models.runtimeconfig.json
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\bin\Debug\net7.0\TestCaseDemo.Models.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\bin\Debug\net7.0\TestCaseDemo.Models.pdb
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.csproj.AssemblyReference.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.AssemblyInfoInputs.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.AssemblyInfo.cs
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.csproj.CoreCompileInputs.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\refint\TestCaseDemo.Models.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.pdb
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\TestCaseDemo.Models.genruntimeconfig.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Models\obj\Debug\net7.0\ref\TestCaseDemo.Models.dll

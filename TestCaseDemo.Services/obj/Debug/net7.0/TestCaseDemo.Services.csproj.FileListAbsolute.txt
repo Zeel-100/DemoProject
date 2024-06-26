@@ -1,0 +1,17 @@
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\bin\Debug\net7.0\TestCaseDemo.Services.deps.json
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\bin\Debug\net7.0\TestCaseDemo.Services.runtimeconfig.json
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\bin\Debug\net7.0\TestCaseDemo.Services.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\bin\Debug\net7.0\TestCaseDemo.Services.pdb
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\bin\Debug\net7.0\TestCaseDemo.Models.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\bin\Debug\net7.0\TestCaseDemo.Models.pdb
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.csproj.AssemblyReference.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.AssemblyInfoInputs.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.AssemblyInfo.cs
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.csproj.CoreCompileInputs.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.csproj.CopyComplete
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\refint\TestCaseDemo.Services.dll
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.pdb
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\TestCaseDemo.Services.genruntimeconfig.cache
+C:\Users\pca150\source\repos\TestCasesDemo\TestCaseDemo.Services\obj\Debug\net7.0\ref\TestCaseDemo.Services.dll
